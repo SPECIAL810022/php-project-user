@@ -1,0 +1,226 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+ 
+
+ 
+
+nav li a {
+	font-size: 20px;
+    margin: 10px;
+	text-decoration:none;
+	color: white;
+	
+}
+
+/*nav bar work is complete*/
+
+#bg{
+	background-color: #3bf7b9;
+}
+
+div img{
+	width: 100%;
+	height: 600px;
+	/* background-size: 100px 100px; */
+	/* position: relative; */
+	margin-top: 0px;
+	padding-top: 0px;
+	
+}
+
+div h1{
+	position: absolute;
+	top: 250px;
+	left: 200px;
+	color: rgba(225, 202, 230, 0.5);
+	text-transform: uppercase;
+	font-size: 50px;
+	
+}
+
+div p.imgp{
+	position: absolute;
+	top: 350px;
+	left: 80px;
+	color: rgba(205, 202, 230, 0.5);
+	text-transform: uppercase;
+	font-size: 50px;
+	cursor: pointer;
+}
+
+#search{
+	position: absolute;
+	top: 10px;
+	right: 40%;
+	background-color: red;
+}
+
+
+
+/*acompolished the front pic part*/
+
+
+/* below the header */
+#mn p{
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+    text-align: center;
+    padding-top: 100px;
+    text-decoration: underline;
+}
+/* dont think about me */
+
+
+
+ 
+/*rd pic and text */
+
+#bg_2{
+	background-color: #f584e8;
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+
+.col img{
+	width: 100%;
+	height: auto;
+	background-size: 50px 50px;
+}
+
+#rdp thought{
+	text-transform: capitalize;
+	font-size: 20px;
+	
+}
+
+
+#rdp p{
+	text-transform: capitalize;
+	float: left;
+	margin-right: 10px;
+	padding-top: 5%;
+	
+	
+}
+
+ 
+/* rd pic and text */
+
+
+/*saqlain bader first pic*/
+#sqab h2{
+   margin-left: 30px;
+   text-transform: uppercase;
+   text-decoration: underline;
+   color: rgba(125, 150, 2550, 1.0);
+   padding-top: 20px;
+   margin-left: 150px;
+
+}
+
+#sqab p{
+   text-transform: capitalize;
+   margin-left: 100px;
+   margin-top: 0px;
+}
+
+#sqp img{
+	width: 100%;
+	height: auto;
+	background-size: 30px 30px;
+	text-decoration: underline;
+/*	padding-bottom: 50px;*/
+}
+
+/*saqlain bader first pic end*/
+
+
+/*saqlain bader 2nd pic part*/
+
+#bg_3{
+   background-color: #77967d;
+   padding-top: 4%;
+   padding-bottom: 4%;
+}
+
+#saqlain_pic2 img{
+	width: 100%;
+	height: auto;
+	background-size: 100%;
+	text-decoration: underline;
+	padding-bottom: 50px;
+}
+
+#saqlain_pic2 h3{
+    text-decoration-line: underline;
+    text-align: center;
+    color: blueviolet;
+    padding-top: 40px;
+}
+
+#saqlain_pic2 p{
+   text-transform: capitalize;
+   margin-left: 2px;
+   margin-top: 5px;
+   text-indent: 130px;
+}
+/*saqlain bader 2nd pic part*/
+
+
+/*bootstrap4.6*/
+/* @media (max-width:1400px)and(min-width:420px) { */
+   	 
+#bg_4{
+	background-color: black;
+	padding-bottom: 10%;
+    padding-top: 5%;
+	
+}
+
+
+
+/*bootstrap4.6*/
+
+/* for footer start */
+ #hpl p {
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 2%;
+	font-size: 30px;
+	text-decoration: underline;
+	
+ }
+
+ #icon ul li {
+  
+  /* float: left; */
+  display: block;
+  margin-left: 400px;
+  color: rgb(1, 15, 15);
+  padding-right: 5%;
+  padding-bottom: 1%;
+  font-size: 20px;
+
+}
+
+#hpl {
+	background-image: url("https://images.pexels.com/photos/2559941/pexels-photo-2559941.jpeg?auto=compress&cs=tinysrgb&w=600");
+	background-repeat: no-repeat;
+	background-size: 100% 500px;
+	/* width: 100%; */
+	/* height: 100%; */
+}
+      
+/* footer complete */
+
+/* start jquery */
+
+
+hd.highlight{
+	background: rgb(17, 13, 231);
+	
+}
